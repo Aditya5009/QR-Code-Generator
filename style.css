@@ -9,7 +9,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #512a2a;
+    background-color: #d09df1;
 }
 .container{
     width: 400px;
@@ -42,7 +42,7 @@ body{
     border-radius: 10px;
     border: none;
     outline: none;
-    background: #742dcb;
+    background: #8d3fed;
     color: white;
     font-size: 20px;
     font-weight: 500;
